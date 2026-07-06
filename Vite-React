@@ -1,0 +1,12 @@
+# Create a new Vite React project
+npm create vite@latest hotel-app -- --template react
+
+# Navigate into the project directory
+cd hotel-app
+
+# Install Tailwind CSS and its dependencies
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+# Install dependencies (axios for API calls, react-icons for UI)
+npm install axios react-icons

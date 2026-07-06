@@ -1,0 +1,9 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── HotelCard.jsx
+│   ├── HotelList.jsx
+│   └── Loader.jsx
+├── App.jsx
+├── index.css
+└── main.jsx
